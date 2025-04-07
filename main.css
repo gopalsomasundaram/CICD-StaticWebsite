@@ -1,0 +1,53 @@
+body { 
+   width: 72ch;
+   font-family: monospace;
+   margin: 0 auto;
+   font-size: 1em;
+   line-height: 1.3;
+}
+
+#header {
+   border-bottom: 1px solid;
+   text-align: center;
+   width: 100%;
+}
+
+#content {
+   text-align: left;
+}
+
+#footer {
+   border-top: 1px solid;
+   padding: 15px;
+   text-align: center;
+   width: 100%;
+}
+
+code {
+   font-size: 0.9em;
+   color: rgb(128,128,128);
+}
+
+table {
+   width: 100%;
+}
+
+.left {
+   text-align: left;
+}
+
+.right {
+   text-align: right;
+}
+
+.center {
+   text-align: center;
+}
+
+.fifty {
+   width: 50%;
+}
+
+td {
+   padding: 3px;
+}
